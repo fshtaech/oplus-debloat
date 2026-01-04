@@ -27,6 +27,7 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.healthdata # Health C
 adb shell pm uninstall -k --user 0 com.google.android.apps.googleassistant # Google Assistant
 adb shell pm uninstall -k --user 0 com.android.stk # SIM Toolkit
 adb shell pm uninstall -k --user 0 com.oplus.multiapp # App Cloner
+adb shell pm uninstall -k --user 0 com.coloros.smartsidebar # Smart Sidebar
 adb shell pm uninstall -k --user 0 com.coloros.floatassistant # Assistive Ball
 adb shell pm uninstall -k --user 0 com.oneplus.filemanager # My Files
 adb shell pm uninstall -k --user 0 com.oplus.encryption # Private Safe
